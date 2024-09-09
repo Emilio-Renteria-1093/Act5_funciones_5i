@@ -17,7 +17,8 @@ manejo de funciones en Python
 ![image](https://github.com/user-attachments/assets/91d61490-05eb-468e-a38c-c19e1baa3ba8)
 
 ### Resultado
-![image](https://github.com/user-attachments/assets/c1a3aa48-e1ec-4706-b840-23d0de613283)
+![image](https://github.com/user-attachments/assets/977d1f7a-af64-4eef-a27c-e53798d7064f)
+
 
 
 
